@@ -2,5 +2,6 @@ Welcome to the GitHub Workshop!
 Fill out some personal information:
 
 Person 1: My name is Jessie. I am going to use gitHub for a class, CS 2114.
-Person 2: My name is [(name)]. I am going to use gitHub for a class, CS[].
+Person 2: My name is Leslie. I am going to use gitHub for a class, CS 2114.
 Person 3: My name is Sameer. I am going to use gitHub for a class, CS 2114.
+>>>>>>> ffaae9ed1b2787832e74550fdc59730b40bc525d
